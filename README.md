@@ -1,4 +1,4 @@
-# 🏥 **Some AI Proyects**
+# 🏥 **Applied Machine Learning**
 
 Welcome to the **AI Proyects Repository**! This project contains a collection of tools  (from healthcare-related analyses to financial predictions).
 
@@ -39,3 +39,4 @@ This repository employs a variety of licenses:
 ---
 
 > **Note:** This repository is intended for educational purposes. 
+
